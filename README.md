@@ -27,3 +27,10 @@ Kumpulan documentation saya selama mengikuti Bootcamp Data Science MySkill
 - Tree
 - Graph
 - Hashmaps
+
+4. String.ipynb :
+- Access Character in Python String
+  - Reverse String
+  - String Slicing
+- Escape Sequence in Python
+- Formatting in String
