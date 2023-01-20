@@ -79,3 +79,12 @@ Kumpulan documentation saya selama mengikuti Bootcamp Data Science MySkill
   - List Sorting
   - Copy List
   - Joining List
+
+8. **Dictionary.ipynb**:
+- Defining Dictionary
+- Accessing Dictionary
+- Dictionary key vs List Indexing
+- Building a Dictionary Incrementally
+- Restriction in Key Dictionary
+- Restriction in Value Dictionary
+- Built-in Dictionary Methods
