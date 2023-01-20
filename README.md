@@ -50,3 +50,12 @@ Kumpulan documentation saya selama mengikuti Bootcamp Data Science MySkill
   - Matching pattern with text
   - Find all occurence in pattern
   - re.VERBOSE
+  
+6.**Advance_regex.ipynb**:
+- Find all matched substring occurence
+      VS
+- Alternation (Substitusi)
+- Splitting String dengan dan tanpa RegEx
+  - Split tanpa Regex
+  - Split dengan Regex
+- Search dan Replace dengan sub()
