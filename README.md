@@ -59,3 +59,23 @@ Kumpulan documentation saya selama mengikuti Bootcamp Data Science MySkill
   - Split tanpa Regex
   - Split dengan Regex
 - Search dan Replace dengan sub()
+
+7. **List_fundamental.ipynb**:
+- Python List
+  - Allow duplicates
+  - list length
+  - any datatype in list
+  - type()
+  - list konstruktor
+- Modification of List
+  - index
+  - negative index
+  - index range
+  - change element value
+  - Add Item to list
+  - Remove item from list
+  - Loop in List
+  - List Comprehension
+  - List Sorting
+  - Copy List
+  - Joining List
