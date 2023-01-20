@@ -88,3 +88,10 @@ Kumpulan documentation saya selama mengikuti Bootcamp Data Science MySkill
 - Restriction in Key Dictionary
 - Restriction in Value Dictionary
 - Built-in Dictionary Methods
+
+9. **BASIC_OOP**:
+- Class
+- Object
+- Inheritance (pewarisan)
+- Polymorphism
+- Encapsulation
